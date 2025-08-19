@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+openai
+pyautogui
+pygetwindow
+pyperclip
+keyboard

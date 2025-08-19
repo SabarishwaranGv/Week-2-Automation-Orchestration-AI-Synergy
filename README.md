@@ -53,7 +53,7 @@ Major Project
 
 The AI Orchestra – A complete orchestration system that unifies automation, pipelines, and multi-model collaboration.
 
-🔗 Demo / Walkthrough
+🔗 [View Project](https://github.com/SabarishwaranGv/Week-2-Automation-Orchestration-AI-Synergy/tree/Major_Project---AI-Orchestra)
 
 About Mystery2Mastery
 

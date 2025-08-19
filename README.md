@@ -41,13 +41,13 @@ Project Links
 Mini Projects
 
 LangChain – RAG PDF Q&A Bot
-🔗 View Project
+🔗 [View Project](https://github.com/SabarishwaranGv/Week-2-Automation-Orchestration-AI-Synergy/tree/Mini_Project_1---RAG-PDF-Q%26A-BOT)
 
 Make – Instant Headline Hacker
-🔗 View Project
+🔗 [View Project](https://github.com/SabarishwaranGv/Week-2-Automation-Orchestration-AI-Synergy/tree/Mini_Project_2---Instant-Headline-Hacker)
 
 OpenRouter – Battle of the Bots
-🔗 View Project
+🔗 [View Project](https://github.com/SabarishwaranGv/Week-2-Automation-Orchestration-AI-Synergy/tree/Mini_Project_3---Battle_of_the_Bots)
 
 Major Project
 
